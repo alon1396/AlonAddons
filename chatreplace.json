@@ -146,7 +146,7 @@
     "rm_rf_slash": "&c[&r&fARCHER&r&c] &crm_rf_slash",
     "Tjoz": "&0[Superior+] &0Tjoz",
     "YungPika": "&0[&c&lCRACKED&0] &0&lYungPika",
-    "DeformedYam": "&c&l[&7&k&f&lTHROWER&7&k&c&l]&r&c Deformed&f&lYam",
+    "DeformedYam": "&c&l[&7&k&f&lTHROWER&7&k&c&l]&r&c Reformed&f&lYam",
     "cqmera": "&b&l[PHOTOHAUNTED] &aCamera",
     "JustHaruto": "&4[NightRaid] &4JustHaruto",
     "MidNightN00B": "&d[N00B] &dN00B",
@@ -217,5 +217,6 @@
     "64x4": "&l&d[CAR++] &l&b&oBigBlueBus",
     "Uwu_girl_": "&5&l[&d&lUwU&5] &b&lUwu_&3girl_",
     "TimmyGiz": "&4[&c&lu&lwu&l&4] &a&lTimmy&2&lGiz",
-    "TornadoMC": "&5[Anime] &5TornadoMC"
+    "TornadoMC": "&5[Anime] &5TornadoMC",
+    "aegist": "&f[&4&kD&cWRLD&4&kd&f] &0Aegis"
 }
